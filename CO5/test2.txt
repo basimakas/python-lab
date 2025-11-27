@@ -1,0 +1,3 @@
+Python can be used on a server to create a web applications.
+Python can connect to database systems.
+python can be used to handle big data and perform complex mathematics.
